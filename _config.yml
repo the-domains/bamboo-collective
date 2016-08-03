@@ -6,9 +6,9 @@ color:
   saturation: 0.06348745268769562
   rhythmicContrast: 0.6623959876596928
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#4F4E54'
+    - '#030303'
+    - '#CECECE'
+    - '#F4F4F6'
+    - '#8F8F8F'
 name: bamboo collective
